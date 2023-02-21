@@ -29,3 +29,7 @@ npm run build
 ```
 
 Builds the app for production to the `build` folder.<br>
+
+Also you can remove public images as it's not used in this project
+
+This is made by OTH
